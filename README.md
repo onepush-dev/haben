@@ -2,7 +2,7 @@
 
 [haben](https://github.com/firsttris/haben) is self-hosted German bookkeeping (EÜR, ELSTER, e-invoices, GoBD). Deploy it on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template?template=https://github.com/onepush-dev/haben)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/uALRQs)
 
 This repository packages the official `tristanteu/haben` and `tristanteu/haben-db` 0.6.5 images (AGPL-3.0) for Railway. Independent community packaging, not affiliated with the haben project.
 
